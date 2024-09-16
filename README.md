@@ -67,7 +67,24 @@ As a user, I want to receive clear error messages if I submit invalid informatio
 
 
 Clone the repository.
+
+
 Install XAMPP or another server that supports PHP and MySQL.
+
+
 Import the database schema.
+
+
 Set up Safaricom Daraja API credentials.
+
+
 Run the project on localhost using XAMPP.
+
+**Contribution**
+Feel free to submit pull requests or raise issues to improve the project.
+
+**License**
+This project is licensed under.
+
+All rights reserved @2024
+
