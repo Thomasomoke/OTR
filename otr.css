@@ -179,6 +179,12 @@ nav img{
 .video__content h2{
     color: #fff;
 }
+.visit{
+    color: rgb(14, 2, 54);
+    font-weight: 1200px;
+    font-size: 20px;
+ 
+}
 
 .membership {
     margin-bottom: 70px;

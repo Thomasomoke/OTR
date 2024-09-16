@@ -6,6 +6,7 @@ if(isset($_POST['submit'])){
 
   # access token
   $consumerKey = 'li1MOZJCJ2sHVik93SISSuQ9KE1uJMdtgp7DJDjuiOdEGWhW'; //Fill with your app Consumer Key
+
   $consumerSecret = 'hqM3aJ74ea4AfQufNOGgOxC7RAkrHFDSSpvoPvZINnnG1lLBFOPMMgBJjAA226ry'; // Fill with your app Secret
 
   # define the variales
