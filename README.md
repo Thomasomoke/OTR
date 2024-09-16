@@ -86,5 +86,5 @@ Feel free to submit pull requests or raise issues to improve the project.
 **License**
 This project is licensed under.
 
-All rights reserved @2024
+All rights reserved @2024.
 
