@@ -13,15 +13,23 @@ This web application is developed to serve primarily individuals of the Christia
 Member Registration
 Prospective members can fill out an online registration form, and their details are stored in the MySQL database.
 
+![Component Image](images/reg.png)
+
 M-Pesa Express Donations
 The application integrates Safaricom's Daraja API for M-Pesa STK Push functionality, allowing users to easily make donations via their mobile phones.
+
+![Component Image](images/contrib.png)
 
 Prayer Request Submission
 Users can submit prayer requests, which will be sent to the ministry’s official email for follow-up and support.
 
+![Component Image](images/sub.png)
+
 Resource Centre
 Users have access to a library of spiritual e-books to help them grow spiritually and cultivate a reading culture.
 
+
+![Component Image](images/bk.png)
 **Technical Requirements**
 
 
@@ -32,6 +40,8 @@ Server: The application runs on an Apache server, supported via XAMPP.
 API Integration: Safaricom Daraja API is used to process M-Pesa payments via STK Push.
 Architecture
 The application follows a client-server model where users interact with the front-end, and the back-end handles database operations and API integrations.
+
+![Component Image](images/serv.png)
 
 **API Routes:**
 
