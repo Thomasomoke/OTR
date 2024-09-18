@@ -1,5 +1,7 @@
 **CHURCH/MINISTRY WEB APPLICATION**
 
+![Component Image](images/home.png)
+
 **Project Overview**
 
 
